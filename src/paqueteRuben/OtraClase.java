@@ -11,5 +11,7 @@ package paqueteRuben;
  * @author Diurno
  */
 public class OtraClase {
-    
+    public static void main(String [ ] args){
+        System.out.println("Bienvenido a otra clase");
+    }
 }

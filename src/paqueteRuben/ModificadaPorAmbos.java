@@ -10,9 +10,14 @@ package paqueteRuben;
  *
  * @author Diurno
  */
+
 public class ModificadaPorAmbos {
+    private int numero;
     public static void main(String [ ] args){
         System.out.println("Bienvenido a la clase Modificada por ambos");
     }
-    
+    public void setNumero(int valor){
+     numero = valor;  
+    }
 }
+   
